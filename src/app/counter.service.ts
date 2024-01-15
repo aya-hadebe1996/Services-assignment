@@ -12,5 +12,5 @@ export class CounterService{
         console.log('Inactive to Active: ' + this.inactiveToActiveCounter);
     }
 
-
+// Test branch. git 
 }
